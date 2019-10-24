@@ -1,0 +1,50 @@
+12:45:10 Librepo version: 1.7.18 with CURL_GLOBAL_ACK_EINTR support (libcurl/7.50.3 NSS/3.26 zlib/1.2.8 libidn/1.33 libpsl/0.14.0 (+libidn/1.33) libssh2/1.8.0 nghttp2/1.13.0)
+12:45:10 Current date: 2019-10-23T12:45:10+0530
+12:45:10 lr_download: Target: file:///etc/dnf/dnf.conf (-)
+12:45:10 select_next_target: Selecting mirror for: file:///etc/dnf/dnf.conf
+12:45:10 prepare_next_transfer: URL: file:///etc/dnf/dnf.conf
+12:45:10 add_librepo_xattr: Cannot set xattr user.Librepo.DownloadInProgress (fd: 7): Operation not supported
+12:45:10 lr_download: Downloading started
+12:45:10 check_transfer_statuses: Transfer finished: file:///etc/dnf/dnf.conf (Effective url: file:///etc/dnf/dnf.conf)
+12:45:10 lr_download: Target: file:///etc/yum.repos.d/fedora-cisco-openh264.repo (-)
+12:45:10 select_next_target: Selecting mirror for: file:///etc/yum.repos.d/fedora-cisco-openh264.repo
+12:45:10 prepare_next_transfer: URL: file:///etc/yum.repos.d/fedora-cisco-openh264.repo
+12:45:10 add_librepo_xattr: Cannot set xattr user.Librepo.DownloadInProgress (fd: 7): Operation not supported
+12:45:10 lr_download: Downloading started
+12:45:10 check_transfer_statuses: Transfer finished: file:///etc/yum.repos.d/fedora-cisco-openh264.repo (Effective url: file:///etc/yum.repos.d/fedora-cisco-openh264.repo)
+12:45:10 lr_download: Target: file:///etc/yum.repos.d/fedora-updates-testing.repo (-)
+12:45:10 select_next_target: Selecting mirror for: file:///etc/yum.repos.d/fedora-updates-testing.repo
+12:45:10 prepare_next_transfer: URL: file:///etc/yum.repos.d/fedora-updates-testing.repo
+12:45:10 add_librepo_xattr: Cannot set xattr user.Librepo.DownloadInProgress (fd: 7): Operation not supported
+12:45:10 lr_download: Downloading started
+12:45:10 check_transfer_statuses: Transfer finished: file:///etc/yum.repos.d/fedora-updates-testing.repo (Effective url: file:///etc/yum.repos.d/fedora-updates-testing.repo)
+12:45:10 lr_download: Target: file:///etc/yum.repos.d/fedora-updates.repo (-)
+12:45:10 select_next_target: Selecting mirror for: file:///etc/yum.repos.d/fedora-updates.repo
+12:45:10 prepare_next_transfer: URL: file:///etc/yum.repos.d/fedora-updates.repo
+12:45:10 add_librepo_xattr: Cannot set xattr user.Librepo.DownloadInProgress (fd: 7): Operation not supported
+12:45:10 lr_download: Downloading started
+12:45:10 check_transfer_statuses: Transfer finished: file:///etc/yum.repos.d/fedora-updates.repo (Effective url: file:///etc/yum.repos.d/fedora-updates.repo)
+12:45:10 lr_download: Target: file:///etc/yum.repos.d/fedora.repo (-)
+12:45:10 select_next_target: Selecting mirror for: file:///etc/yum.repos.d/fedora.repo
+12:45:10 prepare_next_transfer: URL: file:///etc/yum.repos.d/fedora.repo
+12:45:10 add_librepo_xattr: Cannot set xattr user.Librepo.DownloadInProgress (fd: 7): Operation not supported
+12:45:10 lr_download: Downloading started
+12:45:10 check_transfer_statuses: Transfer finished: file:///etc/yum.repos.d/fedora.repo (Effective url: file:///etc/yum.repos.d/fedora.repo)
+12:45:10 lr_handle_perform: Using dir: /var/tmp/dnf-bva045-2h1we918/fedora-310f9d37d74ceec1
+12:45:10 lr_handle_perform: Using own SIGINT handler
+12:45:10 lr_handle_prepare_internal_mirrorlist: Preparing internal mirrorlist
+12:45:10 lr_handle_prepare_internal_mirrorlist: Finalizing internal mirrorlist
+12:45:10 lr_handle_prepare_internal_mirrorlist: Finalizing mirrors reported via LRI_MIRRORS
+12:45:10 lr_handle_perform: Downloading/Locating yum repo
+12:45:10 lr_yum_use_local: Locating repo..
+12:45:10 lr_yum_use_local_load_base: open(/var/tmp/dnf-bva045-2h1we918/fedora-310f9d37d74ceec1/repodata/repomd.xml): No such file or directory
+12:45:10 lr_handle_perform: Restoring an old SIGINT handler
+12:45:10 lr_handle_perform: Using dir: /var/tmp/dnf-bva045-2h1we918/updates-87ad44ec2dc11249
+12:45:10 lr_handle_perform: Using own SIGINT handler
+12:45:10 lr_handle_prepare_internal_mirrorlist: Preparing internal mirrorlist
+12:45:10 lr_handle_prepare_internal_mirrorlist: Finalizing internal mirrorlist
+12:45:10 lr_handle_prepare_internal_mirrorlist: Finalizing mirrors reported via LRI_MIRRORS
+12:45:10 lr_handle_perform: Downloading/Locating yum repo
+12:45:10 lr_yum_use_local: Locating repo..
+12:45:10 lr_yum_use_local_load_base: open(/var/tmp/dnf-bva045-2h1we918/updates-87ad44ec2dc11249/repodata/repomd.xml): No such file or directory
+12:45:10 lr_handle_perform: Restoring an old SIGINT handler
